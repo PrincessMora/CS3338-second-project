@@ -1,0 +1,45 @@
+commit cee20caf9df917c34518fe17385e2892799231ff
+Merge: 11ec522 36ae5fe
+Author: Princess Moran <Princessmoran17@gmail.com>
+Date:   Wed Sep 30 11:14:26 2026 -0700
+
+    Resolve merge conflict and keep both favorites
+
+commit 36ae5fe8a36c09365b42544b4891f7661b89d962
+Author: Princess Moran <Princessmoran17@gmail.com>
+Date:   Wed Sep 30 11:12:05 2026 -0700
+
+    Add favorite movie on index-fix
+
+commit 11ec5222f8aedb4708fb2015c1359b7fb6f74c07
+Author: Princess Moran <Princessmoran17@gmail.com>
+Date:   Wed Sep 30 11:11:07 2026 -0700
+
+    Add favorite food on main
+
+commit 96daf3625727ee06ceb9b8438268529a60d4be19
+Author: Princess Moran <Princessmoran17@gmail.com>
+Date:   Wed Sep 30 11:09:56 2026 -0700
+
+    Add project README
+
+commit 017fbe0717b35d8bdc0b1f26d5c0e4071715bb53
+Merge: 1d2bfc0 1f2ed3f
+Author: PrincessMora <71196304+PrincessMora@users.noreply.github.com>
+Date:   Wed Sep 30 11:08:00 2026 -0700
+
+    Merge pull request #1 from PrincessMora/info-fill
+    
+    Update personal information in index.html
+
+commit 1f2ed3f782426071a83ad549963cf59a6ea23db1
+Author: PrincessMora <71196304+PrincessMora@users.noreply.github.com>
+Date:   Tue Sep 29 11:26:44 2026 -0700
+
+    Update personal information in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
